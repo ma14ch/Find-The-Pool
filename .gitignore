@@ -1,0 +1,16 @@
+data_pool/
+/home/absi1377/Desktop/EstakhermoonNasheh/best_model.h5
+data_pool/test/.DS_Store
+submission.csv
+predictions.csv
+test_df.csv
+train_df.csv
+val_df.csv
+logs/events.out.tfevents.1727409393.absi1377-System-Product-Name.602108.0
+logs/events.out.tfevents.1727409483.absi1377-System-Product-Name.602108.1
+logs/events.out.tfevents.1727409688.absi1377-System-Product-Name.602108.2
+logs/events.out.tfevents.1727409825.absi1377-System-Product-Name.602108.3
+logs/events.out.tfevents.1727409874.absi1377-System-Product-Name.602108.4
+results/checkpoint-6/config.json
+best_model.h5
+cnn_pool_classifier_gpu.h5
